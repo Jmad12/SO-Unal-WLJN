@@ -10,4 +10,4 @@ Wilson Andres Piravaguen Serrano	28791100	wapiravaguens
 
 Copyright MIT 2017 
 
-Vist  our wiki!
+Mira nuestra [wiki](https://github.com/ncampuzano/SO-Unal-WLJN/wiki/Tienda-de-mascotas)! para conocer todo sobre nuestro proyecto

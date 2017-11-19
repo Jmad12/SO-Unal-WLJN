@@ -1,0 +1,10 @@
+Bienvenido a la historia clinica
+Nombre: test
+Tipo: 1
+Edad: 1
+Raza: 1
+Altura:1
+Peso: 1.000000
+Genero:1
+
+Observaciones:PV
